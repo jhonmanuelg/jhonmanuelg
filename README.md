@@ -1,9 +1,12 @@
+
 <span align="center">
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo eu sou Jhon Manuel</h2>
+
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
 </span>
-
-<div align="center">
+<br>
+<br>
+<div align="center" >
 
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
 
@@ -18,12 +21,12 @@ e poder <strong>realizar meu sono</strong> que possa <strong>ajudar minha famili
 
 <br>
 
-- 👩‍💻 Eu estou atualizando no Front End.
 
-- 👩‍🎓 No momento, estou atualizando no Front End.
+
+
 - 🌱 Html5, Css Flex-box, Grid, Javascript, Typescript, Bootstrap, Api-Rest e Riact.
 - 📫 Como entrar em contato comigo: jhonmanuelg6@outlook.com
-- 😄 Pronomes: Ele/Ela.
+
 - ⚡ Curiosidade: Adoro correr.
 <br>
 
@@ -33,7 +36,7 @@ e poder <strong>realizar meu sono</strong> que possa <strong>ajudar minha famili
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmanuelg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" <br>
   <img align="center" alt="Jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
