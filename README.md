@@ -8,15 +8,14 @@
 <br>
 <div align="center" >
 
-<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/vs-code-surround.gif" width="800px" />
+<img src="https://lh3.googleusercontent.com/proxy/yoPZ0_vSrtYSHixRr_FMLIF_gJdvhqGC-aZ4UBBmD-Iy2RkKZLZ6-4Kjs3XzykF6-QZ91016Gfjb-rCbJzs" width="1000px" />
 
 </div>
 
 <br>
 <p align="center">
-  Sou <strong>JhonManuel</strong> e <strong>Estuo actualizando na Programação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador Front End,</strong>
-e poder <strong>realizar meu sono</strong> que possa <strong>ajudar minha familia.</strong>.
+  Sou uma pessoa ama o sucesso e aprendo de meu erro, adoro desafios e mais trabalhar em equipe com adaptação a todos os tipos de pessoas com as metodologias, <strong> soft skills. </strong> Muito detalhista, autodidata e criativo, nunca paro de aprender novas tecnologias, com o objetivo de ajudar a empresa através de das habilidades <strong> hard skills</strong> ter sucesso juntos.
+ 
 </p>
 
 <br>
@@ -24,7 +23,7 @@ e poder <strong>realizar meu sono</strong> que possa <strong>ajudar minha famili
 
 
 
-- 🌱 Html5, Css Flex-box, Grid, Javascript, Typescript, Bootstrap, React.
+- 🌱 Html5, Css Flex-box, Grid, Javascript, Bootstrap, React.
 - 📫 Como entrar em contato comigo: jhonmanuelg6@outlook.com
 
 - ⚡ Curiosidade: Adoro correr.
