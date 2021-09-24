@@ -8,7 +8,7 @@
 <br>
 <div align="center" >
 
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/vs-code-surround.gif" width="800px" />
 
 </div>
 
@@ -24,7 +24,7 @@ e poder <strong>realizar meu sono</strong> que possa <strong>ajudar minha famili
 
 
 
-- 🌱 Html5, Css Flex-box, Grid, Javascript, Typescript, Bootstrap, Api-Rest e Riact.
+- 🌱 Html5, Css Flex-box, Grid, Javascript, Typescript, Bootstrap, React.
 - 📫 Como entrar em contato comigo: jhonmanuelg6@outlook.com
 
 - ⚡ Curiosidade: Adoro correr.
