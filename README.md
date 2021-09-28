@@ -21,10 +21,10 @@
 <br>
 
 
-
+-🌏 WEB DEVELOPER
 
 - 🌱 Html5, Css Flex-box, Grid, Javascript, Bootstrap, React.
-- 📫 Como entrar em contato comigo: jhonmanuelg6@outlook.com
+
 
 - ⚡ Curiosidade: Adoro correr.
 <br>
