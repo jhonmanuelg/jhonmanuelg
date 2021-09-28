@@ -8,7 +8,7 @@
 <br>
 <div align="center" >
 
-<img src="https://lh3.googleusercontent.com/proxy/yoPZ0_vSrtYSHixRr_FMLIF_gJdvhqGC-aZ4UBBmD-Iy2RkKZLZ6-4Kjs3XzykF6-QZ91016Gfjb-rCbJzs" width="1000px" />
+<img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" width="800px" />
 
 </div>
 
