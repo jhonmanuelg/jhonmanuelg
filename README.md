@@ -8,13 +8,13 @@
 <br>
 <div align="center" >
 
-<img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" width="800px" />
+<img src="https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="800px" />
 
 </div>
 
 <br>
 <p align="center">
-  Sou uma pessoa ama o sucesso e aprendo de meu erro, adoro desafios e mais trabalhar em equipe com adaptação a todos os tipos de pessoas com as metodologias, <strong> soft skills. </strong> Muito detalhista, autodidata e criativo, nunca paro de aprender novas tecnologias, com o objetivo de ajudar a empresa através de das habilidades <strong> hard skills</strong> ter sucesso juntos.
+  Sou Venezuelano,  uma pessoa ama o sucesso e aprendo de meu erro, adoro desafios e mais trabalhar em equipe com adaptação a todos os tipos de pessoas com as mitologia soft skills. Muito detalhista, autodidata e criativo, nunca paro de aprender novas tecnologias, quero fazer parte de uma equipe de trabalho é ser <strong>Professional Developer</strong>  e crescer no setor como <strong>FRONT END</strong> , e me consolidar profissionalmente em sua empresa onde as realizações e o desempenho pessoais são reconhecidos, além de permitir oportunidades de desenvolvimento com autoaprendizado, pessoal e profissional para ter sucesso justo.  
  
 </p>
 
@@ -26,7 +26,6 @@
 - 🌱 Html5, Css Flex-box, Grid, Javascript, Bootstrap, React.
 
 
-- ⚡ Curiosidade: Adoro correr.
 <br>
 
 <div align="center">
