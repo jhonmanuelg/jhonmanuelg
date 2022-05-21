@@ -19,7 +19,7 @@
 <p align="center">
 Oi tudo bem que sucesso que você esteja bem, eu sou Jhon Gil, é um prazer para mim que venha me a visitar, uma das minhas principais características é ser Amante pela tecnologia. Criativo para o desenvolvimento de soluções innovative solutions for high-impact problems.
 
-Busco novos desafios na minha área de Front End Jr, após fazer o curso da Instituição Toti. Procuro uma oportunidade no mercado de trabalho, para minhas primeiras oportunidades na área. Quero continuar me desenvolvendo profissionalmente no setor, com minhas habilidades soft skills para a construção de grandes resultados em seu ambiente de trabalho 😍😍😍.
+Busco novos desafios na minha área de **Front End Jr**, após fazer o curso da Instituição Toti. Procuro uma oportunidade no mercado de trabalho, para minhas primeiras oportunidades na área. Quero continuar me desenvolvendo profissionalmente no setor, **com minhas habilidades soft skills** para a construção de grandes resultados em seu ambiente de trabalho 😍😍😍.
  
 </p>
 
