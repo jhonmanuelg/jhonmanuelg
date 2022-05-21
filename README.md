@@ -12,21 +12,26 @@
 
 </div>
 
+-----
+
+
 <br>
 <p align="center">
-  Sou Venezuelano,  uma pessoa ama o sucesso e aprendo de meu erro, adoro desafios e mais trabalhar em equipe com adaptação a todos os tipos de pessoas com as mitologia soft skills. Muito detalhista, autodidata e criativo, nunca paro de aprender novas tecnologias, quero fazer parte de uma equipe de trabalho é ser <strong>Professional Developer</strong>  e crescer no setor como <strong>FRONT END</strong> , e me consolidar profissionalmente em sua empresa onde as realizações e o desempenho pessoais são reconhecidos, além de permitir oportunidades de desenvolvimento com autoaprendizado, pessoal e profissional para ter sucesso justo.  
+Oi tudo bem que sucesso que você esteja bem, eu sou Jhon Gil, é um prazer para mim que venha me a visitar, uma das minhas principais características é ser Amante pela tecnologia. Criativo para o desenvolvimento de soluções innovative solutions for high-impact problems.
+
+Busco novos desafios na minha área de Front End Jr, após fazer o curso da Instituição Toti. Procuro uma oportunidade no mercado de trabalho, para minhas primeiras oportunidades na área. Quero continuar me desenvolvendo profissionalmente no setor, com minhas habilidades soft skills para a construção de grandes resultados em seu ambiente de trabalho 😍😍😍.
  
 </p>
 
-<br>
+-----
+
+✨✨✨ WEB DEVELOPER ✨✨✨
+
+😍 Html5, Css3, Javascript, Bootstrap, React. 😍
+
+-----
 
 
--🌏 WEB DEVELOPER
-
-- 🌱 Html5, Css Flex-box, Grid, Javascript, Bootstrap, React.
-
-
-<br>
 
 <div align="center">
   <a href="https://github.com/jhonmanuelg">
@@ -52,7 +57,7 @@
   <a href="https://www.linkedin.com/in/jhon-manuel-gil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>    
       <br>
   <br>
-  <br>
+  ====================
   <br>
   
    ![Snake animation](https://github.com/jhonmanuelg/jhonmanuelg/blob/output/github-contribution-grid-snake.svg)
