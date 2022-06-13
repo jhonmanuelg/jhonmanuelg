@@ -1,7 +1,7 @@
 
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="10px"> Olá seja bem-vindo</h2>
 
 </span>
 <br>
