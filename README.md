@@ -16,22 +16,25 @@
 
 
 <br>
-<p align="center">
-Oi tudo bem que sucesso que você esteja bem, eu sou Jhon Gil, é um prazer para mim que venha me a visitar, uma das minhas principais características é ser Amante pela tecnologia. Criativo para o desenvolvimento de soluções innovative solutions for high-impact problems.
+<h1 align="center">✨✨✨WEB DEVELOPER FRONT END✨✨✨</h1>
+<p align="justify">
+Olá, sou um venezuelano que ama o sucesso, carinhoso, alegre, simpático, autodidata, adoro aprender novas tecnologias e ser criativo, adoro conhecer novas pessoas e suas culturas, sou muito comprometido com meu desenvolvimento profissiona, sendo um desenvolvedor. Front End é minha paixão, amo o sucesso e aprendo com meus erros e ouvindo sugestões. Para o meu crescimento e alcance do meu objetivo, é por isso que adoro desafios e muito mais, trabalhar em equipa adaptando-me a todos os tipos de pessoas com as minhas soft skills.
+ 
+ 
 
-Busco novos desafios na minha área de **Front End Jr**, após fazer o curso da Instituição Toti. Procuro uma oportunidade no mercado de trabalho, para minhas primeiras oportunidades na área. Quero continuar me desenvolvendo profissionalmente no setor, **com minhas habilidades soft skills** para a construção de grandes resultados em seu ambiente de trabalho 😍😍😍.
  
 </p>
 
 -----
+<p>
+✨✨
+Atuarmente trabalho como Operador de Telemarketing com atendimento humanizado personalizado. Neste momento estou fazendo a transição da minha carreira profissional para a programação Front End Jr, a experiência de trabalho é baseada no desenvolvimento de projetos de aula e desafios do curso com o Toti expandindo minhas hard skills. para se tornar um programador Front End Jr.
+✨✨
+</p>
 
-✨✨✨ WEB DEVELOPER ✨✨✨
 
-😍 Html5, Css3, Javascript, Bootstrap, React. 😍
 
 -----
-
-
 
 <div align="center">
   <a href="https://github.com/jhonmanuelg">
