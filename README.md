@@ -14,7 +14,7 @@
 
 
 <br>
-<h2 align="center">✨✨✨WEB DEVELOPER FRONT END✨✨✨</h2>
+<h2 align="center">✨✨✨WEB DEVELOPER FRONT END Jr✨✨✨</h2>
 <p align="justify">
 Olá, sou um venezuelano que ama o sucesso, carinhoso, alegre, simpático, autodidata, adoro aprender novas tecnologias e ser criativo, adoro conhecer novas pessoas e suas culturas, sou muito comprometido com meu desenvolvimento profissiona, sendo um desenvolvedor. Front End é minha paixão, amo o sucesso e aprendo com meus erros e ouvindo sugestões. Para o meu crescimento e alcance do meu objetivo, é por isso que adoro desafios e muito mais, trabalhar em equipa adaptando-me a todos os tipos de pessoas com as minhas soft skills.
  
