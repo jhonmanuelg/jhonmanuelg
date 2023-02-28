@@ -26,7 +26,7 @@ Olá, sou um venezuelano que ama o sucesso, carinhoso, alegre, simpático, autod
 -----
 <p>
 ✨✨
-Atuarmente trabalho como Operador de Telemarketing com atendimento humanizado personalizado. Neste momento estou fazendo a transição da minha carreira profissional para a programação Front End Jr, a experiência de trabalho é baseada no desenvolvimento de projetos de aula e desafios do curso com o Toti expandindo minhas hard skills. para se tornar um programador Front End Jr.
+Tenho uma carreira diversa e interessante, tendo trabalhe como bombeiro por 16 anos antes de decidir mudar de carreira e me tornar um professor de informática em na venezuela. Mas recentemente, tenho trabalhado como operador de telemarketing em suporte técnico, no São paulo Brasil mais estou animado para embarcar em uma nova aventura e fazer a transição para a área de programação fazendo curso na Toti como Front End.
 ✨✨
 </p>
 
