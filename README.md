@@ -20,6 +20,7 @@
  Sou venezuelano e tenho 6 anos no Brasil, resido em São Paulo e minha paixão pela tecnologia é inegável.
 Estou em contato com a tecnologia desde 2020, passando pelo Senai e recentemente pela Toti, a onde adquiri conhecimentos em: Html, Css, JavaScript, React, Bootstrap.
  <br>
+ 
  ✨✨ 
 Acredito que a programação front-end está em constante evolução e estou animado para participar desse processo de mudança e inovação. Estou confiante de que as minhas habilidades em resolução de problemas, trabalho em equipe e dedicação desenvolvidas ao longo da minha carreira serão úteis na minha jornada como programador.
  ✨✨
@@ -33,6 +34,7 @@ Estou ansioso para mostrar meu compromisso, aprender e crescer nesta nova carrei
 Tenho uma carreira diversa e interessante, trabalhei como bombeiro por 16 anos antes de decidir mudar de carreira e me tornar um professor de informática na Venezuela.
 
  <br>
+ 
  ✨✨ 
 Mas recentemente, tenho trabalhado como operador de telemarketing esuporte técnico em São Paulo e estou animado para embarcar em uma nova aventura e fazer a transição para a área de programação.
  ✨✨</p>
