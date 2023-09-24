@@ -10,35 +10,23 @@
 
 </div>
 
------
+
 
 
 <br>
 <h2 align="center">✨✨✨WEB DEVELOPER FRONT END Jr✨✨✨</h2>
 <p align="justify">
 ✨✨
- Sou venezuelano e tenho 6 anos no Brasil, resido em São Paulo e minha paixão pela tecnologia é inegável.
-Estou em contato com a tecnologia desde 2020, passando pelo Senai e recentemente pela Toti, a onde adquiri conhecimentos em: Html, Css, JavaScript, React, Bootstrap.
- <br>
+Tenho uma paixão ardente pelo universo tecnológico que transcende qualquer dúvida. Minha busca incessante é pelo aprimoramento constante, tanto pessoalmente quanto profissional. Por aprende o Desenvolvedora Front-end, minha jornada me levou por meio de experiências valiosas no Senai e Toti Diversidade, onde minha bagagem inclui projetos desafiadores e aprendizado contínuo. Atualmente, estou imersa no estudo de Ciência da Computação, cursando o primeiro período na renomada Universidade Cruzeiro do Sul, em São Paulo, Brasil.
+ 
+✨✨
  
  ✨✨ 
-Acredito que a programação front-end está em constante evolução e estou animado para participar desse processo de mudança e inovação. Estou confiante de que as minhas habilidades em resolução de problemas, trabalho em equipe e dedicação desenvolvidas ao longo da minha carreira serão úteis na minha jornada como programador.
+Tenho 2 ano trabalhando de telemarketing, o me levou por experiências valiosas onde adquiri experiência. Proporcionaram a oportunidade de desenvolver habilidades de comunicação efetiva. Resolução de problemas. Trabalho em equipe, capacidade analítica e Gestão de projetos para entrega de resulta, são habilidades muito legais par minha primeira oportunidade de estágio na are-a da tecnologia.
+ 
  ✨✨
   
 </p>
-
------
-<p>
-✨✨
-Estou ansioso para mostrar meu compromisso, aprender e crescer nesta nova carreira com muito sucesso.
-Tenho uma carreira diversa e interessante, trabalhei como bombeiro por 16 anos antes de decidir mudar de carreira e me tornar um professor de informática na Venezuela.
-
- <br>
- 
- ✨✨ 
-Mas recentemente, tenho trabalhado como operador de telemarketing esuporte técnico em São Paulo e estou animado para embarcar em uma nova aventura e fazer a transição para a área de programação.
- ✨✨</p>
-
 
 
 -----
